@@ -1,53 +1,100 @@
-Comuna,Region,AÒo,Nivel_ICVU,Salud_Medioambiente,Vivienda_Entorno
-Providencia,Metropolitana,2023,Alto,Alto,Alto
-Providencia,Metropolitana,2024,Alto,Alto,Alto
-Providencia,Metropolitana,2025,Alto,Alto,Alto
-Vitacura,Metropolitana,2023,Alto,Alto,Alto
-Vitacura,Metropolitana,2024,Alto,Alto,Alto
-Las Condes,Metropolitana,2023,Alto,Alto,Alto
-Las Condes,Metropolitana,2024,Alto,Alto,Alto
-Lo Barnechea,Metropolitana,2023,Alto,Medio Alto,Alto
-—uÒoa,Metropolitana,2024,Alto,Alto,Alto
-Santiago,Metropolitana,2023,Medio Alto,Medio Alto,Medio Bajo
-Santiago,Metropolitana,2024,Medio Alto,Medio Alto,Medio Bajo
-La Reina,Metropolitana,2023,Alto,Alto,Alto
-Macul,Metropolitana,2024,Medio Alto,Medio Alto,Medio Alto
-San Miguel,Metropolitana,2023,Medio Alto,Medio Alto,Medio Alto
-Quilicura,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo
-Maip˙,Metropolitana,2023,Medio Alto,Medio Alto,Medio Alto
-Puente Alto,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo
-La Pintana,Metropolitana,2023,Bajo,Bajo,Bajo
-La Pintana,Metropolitana,2024,Bajo,Bajo,Bajo
-EstaciÛn Central,Metropolitana,2023,Medio Bajo,Bajo,Bajo
-Pudahuel,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo
-ViÒa del Mar,ValparaÌso,2023,Medio Alto,Medio Alto,Medio Alto
-ViÒa del Mar,ValparaÌso,2024,Medio Alto,Medio Alto,Medio Alto
-ValparaÌso,ValparaÌso,2023,Medio Bajo,Bajo,Bajo
-ValparaÌso,ValparaÌso,2024,Medio Bajo,Bajo,Bajo
-ConcÛn,ValparaÌso,2023,Alto,Alto,Medio Alto
-ConcÛn,ValparaÌso,2024,Alto,Alto,Medio Alto
-QuilpuÈ,ValparaÌso,2023,Medio Bajo,Medio Bajo,Medio Bajo
-ConcepciÛn,BiobÌo,2023,Medio Alto,Alto,Medio Alto
-ConcepciÛn,BiobÌo,2024,Medio Alto,Alto,Medio Alto
-ConcepciÛn,BiobÌo,2025,Medio Alto,Alto,Medio Alto
-San Pedro de la Paz,BiobÌo,2023,Medio Alto,Medio Alto,Medio Alto
-Talcahuano,BiobÌo,2024,Medio Bajo,Bajo,Medio Bajo
-Chiguayante,BiobÌo,2023,Medio Alto,Medio Alto,Medio Alto
-Antofagasta,Antofagasta,2023,Medio Alto,Medio Bajo,Medio Alto
-Antofagasta,Antofagasta,2024,Medio Alto,Medio Bajo,Medio Alto
-La Serena,Coquimbo,2023,Medio Alto,Medio Alto,Medio Alto
-La Serena,Coquimbo,2024,Medio Alto,Medio Alto,Medio Alto
-Coquimbo,Coquimbo,2023,Medio Bajo,Medio Bajo,Medio Bajo
-Rancagua,O'Higgins,2023,Medio Alto,Medio Alto,Medio Bajo
-MachalÌ,O'Higgins,2024,Alto,Alto,Alto
-Talca,Maule,2023,Medio Bajo,Medio Alto,Medio Bajo
-Temuco,AraucanÌa,2023,Medio Alto,Medio Bajo,Medio Alto
-Temuco,AraucanÌa,2024,Medio Alto,Medio Bajo,Medio Alto
-Valdivia,Los RÌos,2023,Medio Alto,Alto,Medio Alto
-Osorno,Los Lagos,2024,Medio Bajo,Medio Alto,Medio Bajo
-Puerto Montt,Los Lagos,2023,Medio Bajo,Medio Bajo,Medio Bajo
-Puerto Varas,Los Lagos,2024,Alto,Alto,Alto
-Puerto Varas,Los Lagos,2025,Alto,Alto,Alto
-Coyhaique,AysÈn,2023,Medio Bajo,Bajo,Medio Bajo
-Punta Arenas,Magallanes,2023,Alto,Alto,Alto
-Punta Arenas,Magallanes,2024,Alto,Alto,Alto
+Comuna,Region,A√±o,Nivel_ICVU,Salud_Medioambiente,Vivienda_Entorno,Conectividad_Movilidad,Condiciones_Laborales,Ambiente_Negocios,Condiciones_Socioculturales
+Vitacura,Metropolitana,2024,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Vitacura,Metropolitana,2023,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Lo Barnechea,Metropolitana,2024,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Lo Barnechea,Metropolitana,2023,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Las Condes,Metropolitana,2024,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Las Condes,Metropolitana,2023,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Providencia,Metropolitana,2024,Alto,Alto,Medio Alto,Alto,Alto,Alto,Medio Alto
+Providencia,Metropolitana,2023,Alto,Alto,Medio Alto,Alto,Alto,Alto,Medio Alto
+√ëu√±oa,Metropolitana,2024,Medio Alto,Alto,Medio Alto,Medio Alto,Alto,Medio Alto,Medio Alto
+√ëu√±oa,Metropolitana,2023,Medio Alto,Alto,Medio Alto,Medio Alto,Alto,Medio Alto,Medio Alto
+San Miguel,Metropolitana,2024,Medio Alto,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+San Miguel,Metropolitana,2023,Medio Alto,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Estaci√≥n Central,Metropolitana,2024,Medio Alto,Alto,Bajo,Medio Alto,Medio Bajo,Medio Alto,Medio Bajo
+Estaci√≥n Central,Metropolitana,2023,Medio Alto,Alto,Bajo,Medio Alto,Medio Bajo,Medio Alto,Medio Bajo
+Santiago,Metropolitana,2024,Medio Alto,Medio Alto,Medio Bajo,Alto,Medio Alto,Medio Alto,Medio Bajo
+Santiago,Metropolitana,2023,Medio Alto,Medio Alto,Medio Bajo,Alto,Medio Alto,Medio Alto,Medio Bajo
+La Florida,Metropolitana,2024,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo
+La Florida,Metropolitana,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+La Reina,Metropolitana,2024,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+La Reina,Metropolitana,2023,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+Macul,Metropolitana,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Macul,Metropolitana,2023,Medio Alto,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+San Bernardo,Metropolitana,2024,Medio Bajo,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+San Bernardo,Metropolitana,2023,Medio Bajo,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+Pudahuel,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo
+Pudahuel,Metropolitana,2023,Medio Bajo,Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo
+Puente Alto,Metropolitana,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Medio Bajo,Bajo
+Puente Alto,Metropolitana,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Medio Bajo,Bajo
+La Pintana,Metropolitana,2024,Bajo,Bajo,Bajo,Bajo,Bajo,Bajo,Bajo
+La Pintana,Metropolitana,2023,Bajo,Bajo,Bajo,Bajo,Bajo,Bajo,Bajo
+Quilicura,Metropolitana,2024,Medio Bajo,Bajo,Bajo,Medio Bajo,Bajo,Medio Bajo,Bajo
+Quilicura,Metropolitana,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Maip√∫,Metropolitana,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo
+Maip√∫,Metropolitana,2023,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo
+Recoleta,Metropolitana,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo,Bajo
+Recoleta,Metropolitana,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo
+Renca,Metropolitana,2024,Medio Bajo,Bajo,Bajo,Bajo,Bajo,Bajo,Bajo
+Renca,Metropolitana,2023,Medio Bajo,Bajo,Bajo,Bajo,Bajo,Bajo,Bajo
+Vitacura,Metropolitana,2025,Alto,Alto,Alto,Alto,Alto,Alto,Alto
+Lo Barnechea,Metropolitana,2025,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Las Condes,Metropolitana,2025,Alto,Alto,Alto,Alto,Alto,Alto,Medio Alto
+Providencia,Metropolitana,2025,Alto,Alto,Medio Alto,Alto,Alto,Alto,Medio Alto
+√ëu√±oa,Metropolitana,2025,Medio Alto,Alto,Medio Alto,Medio Alto,Alto,Medio Alto,Medio Alto
+La Reina,Metropolitana,2025,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+Estaci√≥n Central,Metropolitana,2025,Medio Alto,Alto,Medio Bajo,Medio Alto,Medio Bajo,Medio Alto,Medio Bajo
+Santiago,Metropolitana,2025,Medio Alto,Medio Alto,Medio Bajo,Alto,Medio Alto,Medio Alto,Medio Bajo
+La Florida,Metropolitana,2025,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo
+San Miguel,Metropolitana,2025,Medio Alto,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Vitacura,Metropolitana,2025,Alto,Alto,Alto,Alto,Alto,Alto,Alto
+Concepci√≥n,Biob√≠o,2024,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Concepci√≥n,Biob√≠o,2023,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Concepci√≥n,Biob√≠o,2025,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+San Pedro de la Paz,Biob√≠o,2024,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+San Pedro de la Paz,Biob√≠o,2023,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Chiguayante,Biob√≠o,2024,Medio Bajo,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Chiguayante,Biob√≠o,2023,Medio Bajo,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Talcahuano,Biob√≠o,2024,Medio Bajo,Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+Talcahuano,Biob√≠o,2023,Medio Bajo,Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+Puerto Varas,Los Lagos,2024,Alto,Alto,Alto,Medio Alto,Alto,Medio Alto,Medio Alto
+Puerto Varas,Los Lagos,2023,Medio Alto,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Puerto Varas,Los Lagos,2025,Alto,Alto,Alto,Medio Alto,Alto,Medio Alto,Medio Alto
+Osorno,Los Lagos,2024,Medio Bajo,Medio Bajo,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Osorno,Los Lagos,2023,Medio Bajo,Medio Bajo,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Puerto Montt,Los Lagos,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Puerto Montt,Los Lagos,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Coyhaique,Ays√©n,2024,Medio Bajo,Bajo,Medio Alto,Medio Bajo,Medio Bajo,Bajo,Medio Bajo
+Coyhaique,Ays√©n,2023,Medio Bajo,Bajo,Medio Alto,Medio Bajo,Medio Bajo,Bajo,Medio Bajo
+Punta Arenas,Magallanes,2024,Alto,Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Punta Arenas,Magallanes,2023,Alto,Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Antofagasta,Antofagasta,2024,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Antofagasta,Antofagasta,2023,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+La Serena,Coquimbo,2024,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+La Serena,Coquimbo,2023,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Coquimbo,Coquimbo,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Coquimbo,Coquimbo,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Valpara√≠so,Valpara√≠so,2024,Medio Bajo,Bajo,Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+Valpara√≠so,Valpara√≠so,2023,Medio Bajo,Bajo,Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+Vi√±a del Mar,Valpara√≠so,2024,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Vi√±a del Mar,Valpara√≠so,2023,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Conc√≥n,Valpara√≠so,2024,Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Alto,Medio Bajo
+Conc√≥n,Valpara√≠so,2023,Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Alto,Medio Bajo
+Quilpu√©,Valpara√≠so,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Quilpu√©,Valpara√≠so,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Rancagua,O'Higgins,2024,Medio Alto,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Rancagua,O'Higgins,2023,Medio Alto,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Machal√≠,O'Higgins,2024,Alto,Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+Machal√≠,O'Higgins,2023,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Talca,Maule,2024,Medio Bajo,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Talca,Maule,2023,Medio Bajo,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo
+Curic√≥,Maule,2024,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo,Bajo
+Curic√≥,Maule,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo,Bajo,Bajo
+Temuco,Araucan√≠a,2024,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo
+Temuco,Araucan√≠a,2023,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Bajo,Medio Bajo,Medio Bajo
+Valdivia,Los R√≠os,2024,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+Valdivia,Los R√≠os,2023,Medio Alto,Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Alto
+Iquique,Tarapac√°,2024,Medio Alto,Medio Bajo,Medio Alto,Medio Alto,Medio Alto,Medio Alto,Medio Bajo
+Iquique,Tarapac√°,2023,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Medio Bajo,Bajo
+La Calera,Valpara√≠so,2024,Medio Alto,Medio Alto,Alto,Medio Alto,Medio Alto,Alto,Medio Bajo
+La Calera,Valpara√≠so,2023,Medio Alto,Medio Alto,Alto,Medio Alto,Medio Alto,Alto,Medio Bajo
