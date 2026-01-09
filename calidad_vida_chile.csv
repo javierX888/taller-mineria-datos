@@ -1,0 +1,53 @@
+Comuna,Region,Año,Nivel_ICVU,Salud_Medioambiente,Vivienda_Entorno
+Providencia,Metropolitana,2023,Alto,Alto,Alto
+Providencia,Metropolitana,2024,Alto,Alto,Alto
+Providencia,Metropolitana,2025,Alto,Alto,Alto
+Vitacura,Metropolitana,2023,Alto,Alto,Alto
+Vitacura,Metropolitana,2024,Alto,Alto,Alto
+Las Condes,Metropolitana,2023,Alto,Alto,Alto
+Las Condes,Metropolitana,2024,Alto,Alto,Alto
+Lo Barnechea,Metropolitana,2023,Alto,Medio Alto,Alto
+Ñuñoa,Metropolitana,2024,Alto,Alto,Alto
+Santiago,Metropolitana,2023,Medio Alto,Medio Alto,Medio Bajo
+Santiago,Metropolitana,2024,Medio Alto,Medio Alto,Medio Bajo
+La Reina,Metropolitana,2023,Alto,Alto,Alto
+Macul,Metropolitana,2024,Medio Alto,Medio Alto,Medio Alto
+San Miguel,Metropolitana,2023,Medio Alto,Medio Alto,Medio Alto
+Quilicura,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo
+Maipú,Metropolitana,2023,Medio Alto,Medio Alto,Medio Alto
+Puente Alto,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo
+La Pintana,Metropolitana,2023,Bajo,Bajo,Bajo
+La Pintana,Metropolitana,2024,Bajo,Bajo,Bajo
+Estación Central,Metropolitana,2023,Medio Bajo,Bajo,Bajo
+Pudahuel,Metropolitana,2024,Medio Bajo,Bajo,Medio Bajo
+Viña del Mar,Valparaíso,2023,Medio Alto,Medio Alto,Medio Alto
+Viña del Mar,Valparaíso,2024,Medio Alto,Medio Alto,Medio Alto
+Valparaíso,Valparaíso,2023,Medio Bajo,Bajo,Bajo
+Valparaíso,Valparaíso,2024,Medio Bajo,Bajo,Bajo
+Concón,Valparaíso,2023,Alto,Alto,Medio Alto
+Concón,Valparaíso,2024,Alto,Alto,Medio Alto
+Quilpué,Valparaíso,2023,Medio Bajo,Medio Bajo,Medio Bajo
+Concepción,Biobío,2023,Medio Alto,Alto,Medio Alto
+Concepción,Biobío,2024,Medio Alto,Alto,Medio Alto
+Concepción,Biobío,2025,Medio Alto,Alto,Medio Alto
+San Pedro de la Paz,Biobío,2023,Medio Alto,Medio Alto,Medio Alto
+Talcahuano,Biobío,2024,Medio Bajo,Bajo,Medio Bajo
+Chiguayante,Biobío,2023,Medio Alto,Medio Alto,Medio Alto
+Antofagasta,Antofagasta,2023,Medio Alto,Medio Bajo,Medio Alto
+Antofagasta,Antofagasta,2024,Medio Alto,Medio Bajo,Medio Alto
+La Serena,Coquimbo,2023,Medio Alto,Medio Alto,Medio Alto
+La Serena,Coquimbo,2024,Medio Alto,Medio Alto,Medio Alto
+Coquimbo,Coquimbo,2023,Medio Bajo,Medio Bajo,Medio Bajo
+Rancagua,O'Higgins,2023,Medio Alto,Medio Alto,Medio Bajo
+Machalí,O'Higgins,2024,Alto,Alto,Alto
+Talca,Maule,2023,Medio Bajo,Medio Alto,Medio Bajo
+Temuco,Araucanía,2023,Medio Alto,Medio Bajo,Medio Alto
+Temuco,Araucanía,2024,Medio Alto,Medio Bajo,Medio Alto
+Valdivia,Los Ríos,2023,Medio Alto,Alto,Medio Alto
+Osorno,Los Lagos,2024,Medio Bajo,Medio Alto,Medio Bajo
+Puerto Montt,Los Lagos,2023,Medio Bajo,Medio Bajo,Medio Bajo
+Puerto Varas,Los Lagos,2024,Alto,Alto,Alto
+Puerto Varas,Los Lagos,2025,Alto,Alto,Alto
+Coyhaique,Aysén,2023,Medio Bajo,Bajo,Medio Bajo
+Punta Arenas,Magallanes,2023,Alto,Alto,Alto
+Punta Arenas,Magallanes,2024,Alto,Alto,Alto
